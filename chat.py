@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "Ysk-ViYonEmDzUHJW2pLqVZfT3BlbkFJNj4Z9xk4x8RJU7Phum3i"
+openai.api_key = "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"
 
 def generate_response(prompt):
     response = openai.Completion.create(
